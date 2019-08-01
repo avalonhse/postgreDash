@@ -12,5 +12,5 @@ flask_sqlalchemy==2.4.0
 wtforms==2.2.1
 psycopg2==2.7.6.1
 dash==1.0.2
-dash_core_components==1.1.0
-dash_html_components==1.1.0
+dash_core_components==1.0.0
+dash_html_components==1.0.0
